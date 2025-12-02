@@ -11,5 +11,5 @@ npm install lucide-react
 npx tailwindcss init -p
 npm install -D @tailwindcss/postcss
 
-# Luego editar postcss.config.js y index.css
+editar postcss.config.js y index.css:
 npm run dev
